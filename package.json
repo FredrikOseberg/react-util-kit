@@ -1,5 +1,5 @@
 {
-  "name": "react-utils",
+  "name": "react-util-kit",
   "version": "0.0.1",
   "description": "Contains utility components for React",
   "main": "build/index.js",
