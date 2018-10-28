@@ -1,4 +1,3 @@
-import 'react';
 import ConditionallyRender from './ConditionallyRender/ConditionallyRender.jsx';
 import Dropdown from './Dropdown/Dropdown.jsx';
 
