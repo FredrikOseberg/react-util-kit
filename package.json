@@ -1,6 +1,6 @@
 {
   "name": "react-util-kit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Contains utility components for React",
   "main": "build/index.js",
   "peerDependencies": {
