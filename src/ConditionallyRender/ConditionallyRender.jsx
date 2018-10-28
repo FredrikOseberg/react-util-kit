@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 class ConditionallyRender extends Component {
   render() {
     const { ifTrue, show, elseShow } = this.props;
