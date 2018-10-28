@@ -1,9 +1,11 @@
 import ConditionallyRender from './ConditionallyRender/ConditionallyRender';
+import Dropdown from './Dropdown';
 
-export { ConditionallyRender };
+export { ConditionallyRender, Dropdown };
 
 const reactUtils = {
-  ConditionallyRender
+  ConditionallyRender,
+  Dropdown
 };
 
 export default reactUtils;
