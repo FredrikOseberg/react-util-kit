@@ -1,15 +1,9 @@
-import React, { Component } from 'react';
+import ConditionallyRender from './ConditionallyRender/ConditionallyRender';
 
-class ConditionallyRender extends Component {
-  render() {
-    const { ifTrue, show, elseShow } = this.props;
-    return (
-      <React.Fragment>
-        {ifTrue && show}
-        {elseShow && !ifTrue && elseShow}
-      </React.Fragment>
-    );
-  }
-}
+export { ConditionallyRender };
 
-export default ConditionallyRender;
+const reactUtils = {
+  ConditionallyRender
+};
+
+export default reactUtils;
