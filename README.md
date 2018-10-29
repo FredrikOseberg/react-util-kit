@@ -17,7 +17,7 @@ Import the whole library like this:
 Or use individual components:
 
 ```
-import { ConditionallyRender, Dropdown } from 'react-anim-kit'
+import { ConditionallyRender, Dropdown } from 'react-util-kit'
 ```
 
 ## Components
@@ -27,7 +27,7 @@ import { ConditionallyRender, Dropdown } from 'react-anim-kit'
 #### Import
 
 ```
-import { ConditionallyRender } from 'react-anim-kit'
+import { ConditionallyRender } from 'react-util-kit'
 ```
 
 #### Description
