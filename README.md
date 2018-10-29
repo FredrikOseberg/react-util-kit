@@ -1,6 +1,6 @@
 # react-util-kit
 
-react-util-kit is a small library focused on common operations with React simple and readble by wrapping them in components.
+react-util-kit is a small library focused on common operations with React simple and readable by wrapping them in components.
 react-util-kit is primarily concerned with behaviour, not styling nor boilerplate. I don't make any assumptions about how you want to style or structure your code.
 
 ## Installation
