@@ -9,17 +9,17 @@ class Dropdown extends Component {
     };
   }
 
-  toggleDropdown() {
+  toggleDropdown = () => {
     this.setState(prevState => ({ dropdownOpen: !prevState.dropdownOpen }));
-  }
+  };
 
-  openDropdown() {
+  openDropdown = () => {
     this.setState({ dropdownOpen: true });
-  }
+  };
 
-  closeDropdown() {
+  closeDropdown = () => {
     this.setState({ dropdownOpen: false });
-  }
+  };
 
   render() {
     const { dropdownOpen } = this.state;
