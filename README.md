@@ -1,3 +1,11 @@
+# DEPRECATED IN FAVOR OF [REACT-CONDITIONALLY-RENDER](https://www.npmjs.com/package/react-conditionally-render)
+A long time has passed since  I wrote this package and it's beginning to age. In the interest of performance, I no longer 
+wanted to bundle together multiple compononents and distribute them together, therefore I decided to split out ConditionallyRender
+into it's own package that is updated with modern technology and is also typescript ready. You can find the relevant links here:
+- [github](https://github.com/FredrikOseberg/react-conditionally-render)
+- [npm](https://www.npmjs.com/package/react-conditionally-render)
+
+
 # react-util-kit
 
 react-util-kit is a small library focused on common operations with React simple and readable by wrapping them in components.
